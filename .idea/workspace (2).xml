@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="278c2ea4-829f-4741-ad9e-0e265fe28e0c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpServers">
+    <servers>
+      <server host="PhpStorm 2022.3.2" id="52e0378e-6071-42a4-a1f9-6fa5aee116f0" name="PhpStorm 2022.3.2" port="63342" />
+      <server host="localhost" id="57d472a0-8b90-4d09-b667-2436095216b9" name="localhost" port="8080" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 8.1" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2MhA1WaqxgdrEgagcUEtI9r4VzL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/diego.9947/Desktop/UC6",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.webide.settings.project.settings.php",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\diego.9947\Desktop\UC6" />
+      <recent name="C:\Users\diego.9947\Desktop\UC6\src\Modelo" />
+      <recent name="C:\Users\diego.9947\Desktop\UC6\Modelo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.teste.php">
+    <configuration name="teste.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/banco.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="tipos-chaves.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/listas.php">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHP Script.teste.php" />
+      <item itemvalue="PHP Script.tipos-chaves.php" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="278c2ea4-829f-4741-ad9e-0e265fe28e0c" name="Changes" comment="" />
+      <created>1678209226675</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678209226675</updated>
+      <workItem from="1678209228061" duration="2139000" />
+      <workItem from="1678211401054" duration="6423000" />
+      <workItem from="1678294514547" duration="9837000" />
+      <workItem from="1678727743606" duration="8210000" />
+      <workItem from="1678813790416" duration="8789000" />
+      <workItem from="1678899984853" duration="8772000" />
+      <workItem from="1678991173540" duration="2188000" />
+      <workItem from="1679331711033" duration="9618000" />
+      <workItem from="1679417838589" duration="8798000" />
+      <workItem from="1679504352529" duration="8920000" />
+      <workItem from="1679937205237" duration="7251000" />
+      <workItem from="1679946099517" duration="344000" />
+      <workItem from="1680204740388" duration="546000" />
+      <workItem from="1680542103722" duration="63000" />
+      <workItem from="1680714685137" duration="8669000" />
+      <workItem from="1681145974893" duration="8979000" />
+      <workItem from="1681232932002" duration="548000" />
+      <workItem from="1681752076933" duration="4993000" />
+      <workItem from="1682442469498" duration="8000" />
+      <workItem from="1682449570443" duration="1641000" />
+      <workItem from="1682531588290" duration="3333000" />
+      <workItem from="1683049563540" duration="6595000" />
+      <workItem from="1683133920578" duration="8534000" />
+      <workItem from="1683143438375" duration="47000" />
+      <workItem from="1683565115317" duration="9183000" />
+      <workItem from="1684170711243" duration="7325000" />
+      <workItem from="1684257799381" duration="2001000" />
+      <workItem from="1684259832041" duration="6171000" />
+      <workItem from="1684342965189" duration="8085000" />
+      <workItem from="1684353406443" duration="23000" />
+      <workItem from="1684775185597" duration="2881000" />
+      <workItem from="1684861869417" duration="3324000" />
+      <workItem from="1684865236759" duration="4560000" />
+      <workItem from="1684870611019" duration="275000" />
+      <workItem from="1684948225010" duration="8483000" />
+      <workItem from="1685033859941" duration="67000" />
+      <workItem from="1685379863374" duration="8993000" />
+      <workItem from="1685465970548" duration="997000" />
+      <workItem from="1685467966940" duration="6252000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
